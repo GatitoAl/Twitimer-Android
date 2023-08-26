@@ -9,14 +9,14 @@
 * Richard Aldana G.
 * Diana Mediavilla
 
-[![GitHub Followers](https://img.shields.io/github/stars/mouredev/Twitimer-Android?label=Rpositorio%20público%20App%20Android&style=social)](https://github.com/GatitoAl/Twitimer-Android.git)
+[![GitHub Followers](https://img.shields.io/github/stars/mouredev/Twitimer-Android?label=Repositorio%20público%20App%20Android&style=social)](https://github.com/GatitoAl/Twitimer-Android.git)
 
 ### DOCUMENTACIÓN
 [![GitHub Followers](https://img.shields.io/badge/Manual%20de%20usuario-8A2BE2)](https://uceedu-my.sharepoint.com/:b:/g/personal/dkmediavilla_uce_edu_ec/EWJo1XxSCWtHtfyxQXynCs8BhHuVPSrRpuCf_hOM5c6M6A?e=hUd9mW)
 [![GitHub Followers](https://img.shields.io/badge/Documento%20en%20clase-8A2BE2)](https://uceedu-my.sharepoint.com/:b:/g/personal/dkmediavilla_uce_edu_ec/EWJo1XxSCWtHtfyxQXynCs8BhHuVPSrRpuCf_hOM5c6M6A?e=hUd9mW)
 
 
-En los enlaces que encuentra en la parte sperior se encontrará el **[LINK](https://github.com/GatitoAl/Twitimer-Android.git)** para clonar el proyecto, además de el **[MANUAL](https://uceedu-my.sharepoint.com/:b:/g/personal/dkmediavilla_uce_edu_ec/EWJo1XxSCWtHtfyxQXynCs8BhHuVPSrRpuCf_hOM5c6M6A?e=hUd9mW)** de usuario y el **[DOCUMENTO](https://uceedu-my.sharepoint.com/:b:/g/personal/dkmediavilla_uce_edu_ec/EYQg7E536K5Al7UyPcZ9eeIB-Zcsj0ZzGaQGGicmQbwRLw?e=RkmjP0)** realizado en clases para la presentación inicial
+En los enlaces que se encuentran en la parte superior se encontrará el **[LINK](https://github.com/GatitoAl/Twitimer-Android.git)** para clonar el proyecto, además de el **[MANUAL](https://uceedu-my.sharepoint.com/:b:/g/personal/dkmediavilla_uce_edu_ec/EWJo1XxSCWtHtfyxQXynCs8BhHuVPSrRpuCf_hOM5c6M6A?e=hUd9mW)** de usuario y el **[DOCUMENTO](https://uceedu-my.sharepoint.com/:b:/g/personal/dkmediavilla_uce_edu_ec/EYQg7E536K5Al7UyPcZ9eeIB-Zcsj0ZzGaQGGicmQbwRLw?e=RkmjP0)** realizado en clases para la presentación inicial
 
 ### Requisitos mínimos
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.5-purple?longCache=true&style=popout-square)](https://kotlinlang.org)
@@ -28,6 +28,6 @@ En los enlaces que encuentra en la parte sperior se encontrará el **[LINK](http
 
 ### Accesos de la aplicación
 * Puedes acceder a su código fuente libremente.
-* Explico cómo funciona a nivel técnico en cada plataforma.
-* Sirve como ejemplo de proyecto real para entender así el ciclo de vida de un producto de software.
+* Se explica el funciona a nivel técnico con comentarios en el proyecto.
+* Ejemplo de proyecto real para entender el funcionamiento del funcionamiento de una aplicación distribuída.
 
