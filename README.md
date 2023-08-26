@@ -31,4 +31,3 @@ En los enlaces que encuentra en la parte sperior se encontrará el **[LINK](http
 * Explico cómo funciona a nivel técnico en cada plataforma.
 * Sirve como ejemplo de proyecto real para entender así el ciclo de vida de un producto de software.
 
-### En mi perfil de GitHub tienes más información
