@@ -29,5 +29,5 @@ En los enlaces que se encuentran en la parte superior se encontrará el **[LINK]
 ### Accesos de la aplicación
 * Puedes acceder a su código fuente libremente.
 * Se explica el funciona a nivel técnico con comentarios en el proyecto.
-* Ejemplo de proyecto real para entender el funcionamiento del funcionamiento de una aplicación distribuída.
+* Ejemplo de proyecto real para entender el funcionamiento de una aplicación distribuída.
 
