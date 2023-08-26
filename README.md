@@ -1,10 +1,22 @@
-# ⏳Twitimer Android
-![https://twitimer.com](https://raw.githubusercontent.com/mouredev/mouredev/master/twitimer_banner.png)
+### Exámen de Programación Distribuída
 
-[![GitHub Followers](https://img.shields.io/github/stars/mouredev/Twitimer-Android?label=Rpositorio%20público%20App%20Android&style=social)](https://github.com/mouredev/Twitimer-Android)
-[![GitHub Followers](https://img.shields.io/github/stars/mouredev/Twitimer-iOS?label=Repositorio%20público%20App%20iOS&style=social)](https://github.com/mouredev/Twitimer-iOS)
+<p align="center">
+<img src="https://whatthelogo.com/storage/logos/uce-universidad-central-del-ecuador-76405.png" width="30%"/>
+</p>
 
-Twitimer es una App gratuita para **[Android](https://play.google.com/store/apps/details?id=com.mouredev.twitimer)** e **[iOS](https://apps.apple.com/us/app/twitimer-twitch-guide/id1564592351)** que se ha desarrollado para ayudar a usuarios de Twitch, pero sobre todo pensando en generar contenido formativo para toda la comunidad de **programadores y programadoras** interesada en el mundo del desarrollo de apps para dispositivos móviles. Su apoyo ha hecho posible el proyecto (ante todo quiero que sea una App gratuita y en constante evolución).
+**Integrantes:**
+
+* Richard Aldana G.
+* Diana Mediavilla
+
+[![GitHub Followers](https://img.shields.io/github/stars/mouredev/Twitimer-Android?label=Rpositorio%20público%20App%20Android&style=social)](https://github.com/GatitoAl/Twitimer-Android.git)
+
+### DOCUMENTACIÓN
+[![GitHub Followers](https://img.shields.io/badge/Manual%20de%20usuario-8A2BE2)](https://uceedu-my.sharepoint.com/:b:/g/personal/dkmediavilla_uce_edu_ec/EWJo1XxSCWtHtfyxQXynCs8BhHuVPSrRpuCf_hOM5c6M6A?e=hUd9mW)
+[![GitHub Followers](https://img.shields.io/badge/Documento%20en%20clase-8A2BE2)](https://uceedu-my.sharepoint.com/:b:/g/personal/dkmediavilla_uce_edu_ec/EWJo1XxSCWtHtfyxQXynCs8BhHuVPSrRpuCf_hOM5c6M6A?e=hUd9mW)
+
+
+En los enlaces que encuentra en la parte sperior se encontrará el **[LINK](https://github.com/GatitoAl/Twitimer-Android.git)** para clonar el proyecto, además de el **[MANUAL](https://uceedu-my.sharepoint.com/:b:/g/personal/dkmediavilla_uce_edu_ec/EWJo1XxSCWtHtfyxQXynCs8BhHuVPSrRpuCf_hOM5c6M6A?e=hUd9mW)** de usuario y el **[DOCUMENTO](https://uceedu-my.sharepoint.com/:b:/g/personal/dkmediavilla_uce_edu_ec/EYQg7E536K5Al7UyPcZ9eeIB-Zcsj0ZzGaQGGicmQbwRLw?e=RkmjP0)** realizado en clases para la presentación inicial
 
 ### Requisitos mínimos
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.5-purple?longCache=true&style=popout-square)](https://kotlinlang.org)
@@ -13,49 +25,10 @@ Twitimer es una App gratuita para **[Android](https://play.google.com/store/apps
 
 * Por razones de seguridad debes añadir tu propio fichero de configuración de Firebase `google-services.json` con Realtime Database activo y las claves de acceso al API de Twitch en Remote Config con los valores `TwitchClientID` y `TwitchClientSecret`.
 * Es suficiente con abrir y ejecutar el proyecto desde Android Studio.
-* [Puedes ver todo el proceso en este tutorial en YouTube](https://youtu.be/_FLHGY_ATWA)
 
-<a href="https://youtu.be/_FLHGY_ATWA"><img src="http://i3.ytimg.com/vi/_FLHGY_ATWA/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
-
-### ¿De qué forma utilizamos Twitimer para aprender programación?
+### Accesos de la aplicación
 * Puedes acceder a su código fuente libremente.
 * Explico cómo funciona a nivel técnico en cada plataforma.
 * Sirve como ejemplo de proyecto real para entender así el ciclo de vida de un producto de software.
-* Decidimos entre la comunidad cómo mejorarla o cómo priorizar la solución de sus bugs.
-* Contenido gratuito en formato **live codings** semanales en **[Twitch](https://twitch.tv/mouredev)** o de **tutoriales** en [**YouTube**](https://youtube.com/mouredevapps). Los live de Twitch se guardarán en mi **canal secundario** de [**YouTube**](https://youtube.com/mouredevbackups). También tenemos un canal de **chat** en nuestro servidor de **[Discord](https://discord.gg/U3KjjfUfUJ)**.
-* Y estas son sólo algunas ideas...
-
-### Sobre Pull Request al proyecto
-
-* En estos momentos **NO SE ACEPTAN PR** de código sobre el proyecto.
-
-*Esto no quiere decir que en un futuro tenga que seguir siendo así. Es un proyecto en su primera fase de desarrollo y quiero sirva de ayuda para el mayor número de personas, no únicamente las que realicen PR y tengan conocimientos para ello.*
-
-* **SÍ SE ACEPTAN PR** para corregir los ficheros de idioma y añadir otros nuevos.
-`Los encontrarás en app/src/main/res/values-[IDIOMA]/strings.xml`
-
-> La idea fundamental es evolucionar la App entre toda la comunidad tomando decisiones en conjunto, argumentando cada una de ellas, e implementarlas en directo o mediante tutoriales para aprender todos juntos.
-
-### ¿Cómo puedo participar?
-Si quieres unirte a nuestra comunidad de desarrollo, aprender programación de Apps, y ayudar a la continuidad del proyecto, puedes encontrarnos en:
-
-[![Web](https://img.shields.io/badge/Twitimer.com-Web_oficial-3A1C66?style=for-the-badge&logoColor=white&labelColor=101010)](https://twitimer.com)
-[![Twitch](https://img.shields.io/badge/Twitch-Live_coding-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
-[![Discord](https://img.shields.io/badge/Discord-Feedback_y_bugs-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.gg/U3KjjfUfUJ)
-</br>
-[![YouTube](https://img.shields.io/badge/YouTube-Tutoriales-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/mouredevapps)
-[![YouTube](https://img.shields.io/badge/YouTube-Twitch_live_backups-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/mouredevbackups)
-
-## ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Brais Moure. Soy el creador de Twitimer.
-### Freelance full-stack iOS & Android engineer
-
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/mouredev)
-[![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/mouredev)
-![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
-
-Soy ingeniero de software desde hace más de 11 años. Desde hace 3 años combino mi trabajo desarrollando Apps con creación de contenido formativo sobre programación y tecnología en diferentes redes sociales como **[@mouredev](https://mouredev.com/sigueme)**.
 
 ### En mi perfil de GitHub tienes más información
-
-[![Web](https://img.shields.io/badge/GitHub-MoureDev-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/mouredev)
